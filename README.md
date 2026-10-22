@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fastwork Jobboard Bot (Multi-Page + Date Filter + GPT Luna + Telegram Alert)
 
 บอทตรวจจับงานใหม่บน [Fastwork Jobboard](https://jobboard.fastwork.co/jobs) แบบไล่หน้า (`?page=1, 2, 3, ...`) พร้อมกำหนดวันที่ต้องการดึงงานได้ (ค่าเริ่มต้นคือ **`today` = วันนี้**) ใช้ **GPT Luna (`gpt-6-luna`)** คัดกรองเฉพาะงานที่ตรงความต้องการ และแจ้งเตือนเข้า **Telegram** ทันที
@@ -61,3 +62,6 @@ python main.py
 - `/setscore <0-100>` — ตั้งคะแนนความตรงใจขั้นต่ำ
 - `/setinterval <วินาที>` — ตั้งความถี่ในการเช็คงานใหม่
 - `/pause` / `/resume` — หยุดชั่วคราว / กลับมาทำงานต่อ
+=======
+# FW-Radar
+>>>>>>> e3d485af5cc95ec451e4af269c10f7336fda78b5
