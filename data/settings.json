@@ -1,0 +1,9 @@
+{
+  "gpt_model": "gpt-6-luna",
+  "poll_interval_seconds": 120,
+  "page_size": 20,
+  "min_match_score": 65,
+  "filter_criteria": "สนใจงานประเภท: เขียนโปรแกรม (Programming), พัฒนาเว็บไซต์ (Web Development, Frontend, Backend, Full-stack, WordPress), ทำแอปพลิเคชัน (Mobile App, iOS, Android, Flutter, React Native), ทำบอท (Bot, LINE OA, Telegram, Discord, Automation, Web Scraping), เชื่อมต่อระบบ API, AI / Machine Learning / LLM / ChatGPT, Database, แก้บั๊ก, หรือที่ปรึกษาทำแอป/ซอฟต์แวร์ ไม่สนใจงานประเภท: แม่บ้าน, ขับรถ, พิธีกร/VJ/MC ไลฟ์สด, ถ่ายภาพ, แต่งหน้า, หรือพนักงานขายทั่วไป",
+  "telegram_chat_id": "-1003850293006",
+  "is_paused": false
+}
